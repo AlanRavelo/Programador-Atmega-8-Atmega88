@@ -1,4 +1,4 @@
-# Programado-Atmega-8
+# Programador-Atmega-8
 Dispositivo que se utiliza para cargar el programa generado en un computador en la memoria flash programable del microcontrolador ATmega8.
 
 El módulo programador es un hardware que se conecta al microcontrolador a través de un conector específico y utiliza un protocolo de 
